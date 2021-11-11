@@ -1,0 +1,21 @@
+.content-img {
+	display: flex;
+	margin: 0 auto;
+}
+
+.btn {
+	display: flex;
+	justify-content: center;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.delete-btn,
+.cancel-btn {
+	background-color: #FF3333;
+}
+
+.delete-btn:hover,
+.cancel-btn:hover {
+	background-color: #C12222;
+}
